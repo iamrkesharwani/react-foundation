@@ -1,28 +1,29 @@
 # React Foundation
 
-A collection of fundamental React components focused on JSX, props, and styling.
+Fundamental React component projects.
 
-Repo: https://github.com/iamrkesharwani/react-foundation
+**Repo:** https://github.com/iamrkesharwani/react-foundation
 
 ## Projects
 
-### 1. Product Card Component
+### 1. Product Card
 
-- **Features:** Reusable JSX structure with CSS Modules.
-- **Props:** `name`, `price`, `image`, and `rating`.
-- **UI:** Responsive layout with "on sale" and "new arrival" badges.
+- **Props:** name, price, image, rating.
+- **Styles:** Responsive CSS Modules.
+- **Extras:** "On Sale" & "New Arrival" badges.
 
-### 2. Movie Poster Component
+### 2. Movie Poster
 
-- **Features:** Static layout using component composition.
-- **Props:** `title`, `poster image`, `genre`, and `release year`.
-- **UI:** Visual rating indicators and status badges.
+- **Props:** title, image, genre, year.
+- **UI:** Composition-based layout.
+- **Extras:** Rating indicators & status badges.
 
-## Getting Started
+## Setup
 
-```bash
-git clone [https://github.com/iamrkesharwani/react-foundation.git](https://github.com/iamrkesharwani/react-foundation.git)
-cd react-foundation
-npm install
-npm start
-```
+1. Download or clone this repo.
+2. Run `npm install`.
+3. Run `npm start`.
+
+---
+
+**Author:** [iamrkesharwani](https://github.com/iamrkesharwani)
